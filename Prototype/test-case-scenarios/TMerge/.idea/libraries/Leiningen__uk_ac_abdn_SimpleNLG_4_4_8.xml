@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: uk.ac.abdn/SimpleNLG:4.4.8">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/uk/ac/abdn/SimpleNLG/4.4.8/SimpleNLG-4.4.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

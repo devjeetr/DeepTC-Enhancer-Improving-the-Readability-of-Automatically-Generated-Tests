@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <wildcardResourcePatterns>
+      <entry name="!dev-resources:*" />
+      <entry name="!resources:*" />
+      <entry name="!junit-4.4.jar:*" />
+      <entry name="!lexAccess2011dist.jar:*" />
+      <entry name="!lexCheck2006api.jar:*" />
+      <entry name="!lvg2001api.jar:*" />
+      <entry name="!simplenlg-v4.4.2.jar:*" />
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <bytecodeTargetLevel>
+      <module name="org.example.source-analyzer.main" target="11" />
+      <module name="org.example.source-analyzer.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

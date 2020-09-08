@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: org.clojurenlp/core:3.7.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/clojurenlp/core/3.7.0/core-3.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

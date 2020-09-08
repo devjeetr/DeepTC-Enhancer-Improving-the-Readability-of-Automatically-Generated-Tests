@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d960b5e6-7cba-436a-9cd8-deeaa5ad8c24" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/summarizer/src/summarizer/summarizer.clj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/summarizer/test/summarizer/descriptor/getter_tests.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ast-extractor/src/ast_extractor/accessors.clj" beforeDir="false" afterPath="$PROJECT_DIR$/ast-extractor/src/ast_extractor/accessors.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ast-extractor/src/ast_extractor/expressions.clj" beforeDir="false" afterPath="$PROJECT_DIR$/ast-extractor/src/ast_extractor/expressions.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ast-extractor/src/ast_extractor/statements.clj" beforeDir="false" afterPath="$PROJECT_DIR$/ast-extractor/src/ast_extractor/statements.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlg/src/nlg/core.clj" beforeDir="false" afterPath="$PROJECT_DIR$/nlg/src/nlg/core.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlg/src/nlg/helpers.clj" beforeDir="false" afterPath="$PROJECT_DIR$/nlg/src/nlg/helpers.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nlp/src/nlp/core.clj" beforeDir="false" afterPath="$PROJECT_DIR$/nlp/src/nlp/core.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sandbox/.prepl-port" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sandbox/project.clj" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/project.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sandbox/sandbox.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/sandbox.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sandbox/src/sandbox/core.clj" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/src/sandbox/core.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/summarizer/project.clj" beforeDir="false" afterPath="$PROJECT_DIR$/summarizer/project.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/summarizer/src/summarizer/core.clj" beforeDir="false" afterPath="$PROJECT_DIR$/summarizer/src/summarizer/core.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/summarizer/src/summarizer/descriptors/generator.clj" beforeDir="false" afterPath="$PROJECT_DIR$/summarizer/src/summarizer/descriptors/generator.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/summarizer/src/summarizer/descriptors/junit_assertions.clj" beforeDir="false" afterPath="$PROJECT_DIR$/summarizer/src/summarizer/descriptors/junit_assertions.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/summarizer/src/summarizer/descriptors/method_calls.clj" beforeDir="false" afterPath="$PROJECT_DIR$/summarizer/src/summarizer/descriptors/method_calls.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/summarizer/src/summarizer/descriptors/specs.clj" beforeDir="false" afterPath="$PROJECT_DIR$/summarizer/src/summarizer/descriptors/specs.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/summarizer/src/summarizer/descriptors/variable_declaration.clj" beforeDir="false" afterPath="$PROJECT_DIR$/summarizer/src/summarizer/descriptors/variable_declaration.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/summarizer/summarizer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/summarizer/summarizer.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/../summarizer-merger-kotlin">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/line-execution-trace">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/source-analyzer">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Clojure Test Namespace" />
+        <option value="Clojure Namespace" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xg4APYpwejN15Z7T2jmFVcnPqh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cursive.last.file.extension./home/devjeetroy/Research/Testing-Project/test-summarizer-and-merger/ast-extractor/src" value="clj" />
+    <property name="cursive.last.file.extension./home/devjeetroy/Research/Testing-Project/test-summarizer-and-merger/ast-extractor/test" value="clj" />
+    <property name="cursive.last.file.extension./home/devjeetroy/Research/Testing-Project/test-summarizer-and-merger/execution-trace-collector/src" value="clj" />
+    <property name="cursive.last.file.extension./home/devjeetroy/Research/Testing-Project/test-summarizer-and-merger/nlg/src" value="clj" />
+    <property name="cursive.last.file.extension./home/devjeetroy/Research/Testing-Project/test-summarizer-and-merger/summarizer/src" value="clj" />
+    <property name="cursive.last.file.extension./home/devjeetroy/Research/Testing-Project/test-summarizer-and-merger/summarizer/test" value="clj" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/source-analyzer" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.12780136" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/summarizer/src/summarizer/nlg" />
+      <recent name="$PROJECT_DIR$/summarizer/src/summarizer/descriptors" />
+      <recent name="$PROJECT_DIR$/summarizer/src/summarizer/aggregation" />
+    </key>
+  </component>
+  <component name="ReplState" timestamp="1582470752445">{:repl-history {:ide [], :local [{:command &quot;(do result)&quot;, :offset 10, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(def result (transduce a/sequential-same-action-aggregator conj statements))&quot;, :offset 74, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(def decl (helpers/construct-ast-and-get-node MethodDeclaration \&quot;Option x = new Option();\n                                     Option.setOption(\\\&quot;hello\\\&quot;);\n                                     Option.setOption(\\\&quot;sofar\\\&quot;);\&quot;))&quot;, :offset 110, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(def decl (helpers/construct-ast-and-get-node MethodDeclaration \&quot;Option x = new Option();\n                                     Option.setOption(\\\&quot;hello\\\&quot;);\&quot;))&quot;, :offset 155, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(summarizer.common/get-object)&quot;, :offset 29, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(require 'summarizer.aggregation.common :as acc)&quot;, :offset 47, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(require 'summarizer.aggregation.common :as cc)&quot;, :offset 44, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(require '(summarizer.aggregation.common :as cc))&quot;, :offset 11, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;statements&quot;, :offset 10, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(a/method-call-or-var-dec? (first statements))&quot;, :offset 44, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(a/method-call-or-var-dec? (second statements))&quot;, :offset 34, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(set [2 1])&quot;, :offset 9, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(= #{2 1} #{1 2})&quot;, :offset 15, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(= #{2 1} #{1})&quot;, :offset 13, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;#{[1 2 3]}&quot;, :offset 8, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(into #{} [1 2 3])&quot;, :offset 16, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(set (map inc [1 2 3]))&quot;, :offset 20, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(def decl (helpers/construct-ast-and-get-node MethodDeclaration \&quot;Option x = new Option();\n                                     x.setOption(\\\&quot;hello\\\&quot;);\&quot;))&quot;, :offset 112, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(def statements (acc/get-statements (extract-ast-data decl)))&quot;, :offset 58, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(def statements (acc/get-statements (extract-ast-data decl)))\n                                                      &quot;, :offset 54, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(def result (transduce a/sequential-same-object-aggregator conj statements))&quot;, :offset 47, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(pp/pprint result)&quot;, :offset 17, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(def decl (helpers/construct-ast-and-get-node MethodDeclaration \&quot;Option x = new Option();\n                                    Option y = new Option();\n                                     x.setOption(\\\&quot;hello\\\&quot;);\n                                     y.setOption(22);\&quot;))&quot;, :offset 172, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;()&quot;, :offset 1} {:command &quot;(def aggregators (comp a/sequential-same-object-aggregator a/sequential-same-action-aggregator))&quot;, :offset 95, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(require [summarizer.aggregation.common :as cc])&quot;, :offset 46, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(:require '[summarizer.aggregation.common :as cc])&quot;, :offset 2, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(cc/get-object (first statements))&quot;, :offset 32, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(cc/get-object (first second))&quot;, :offset 28, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(cc/get-object (second statements))&quot;, :offset 33, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(cc/get-action (second statements))&quot;, :offset 14, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(def result (transduce aggregators conj statements))&quot;, :offset 51, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;result&quot;, :offset 6, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(let [declaration (helpers/construct-ast-and-get-node MethodDeclaration \&quot;Option x = new Option();\n                                    Option y = new Option();\n                                     x.setOption(\\\&quot;hello\\\&quot;);\n                                     y.setOption(22);\&quot;)\n      statements (acc/get-statements (extract-ast-data declaration))\n      aggregators (comp  a/sequential-same-action-aggregator\n                         a/sequential-same-object-aggregator)\n      result (transduce aggregators conj statements)]\n  (pp/pprint result))&quot;, :offset 541, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(let [declaration (helpers/construct-ast-and-get-node MethodDeclaration \&quot;Option x = new Option();\n                                    Option y = new Option();\n                                     x.setOption(\\\&quot;hello\\\&quot;);\n                                     y.setOption(22);\&quot;)\n      statements (acc/get-statements (extract-ast-data declaration))\n      aggregators (comp  a/sequential-same-action-aggregator\n                         a/sequential-same-object-aggregator)\n      result (transduce aggregators conj statements)]\n  (pp/pprint (map :node-type result)))&quot;, :offset 551, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(let [declaration (helpers/construct-ast-and-get-node MethodDeclaration \&quot;Option x = new Option();\n                                    Option y = new Option();\&quot;)\n      statements (acc/get-statements (extract-ast-data declaration))\n      aggregators (comp  a/sequential-same-action-aggregator\n                         a/sequential-same-object-aggregator)\n      result (transduce aggregators conj statements)]\n  (pp/pprint (map :node-type result)))&quot;, :offset 158, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(let [declaration (helpers/construct-ast-and-get-node MethodDeclaration \&quot;Option x = new Option();\n                                    Option y = new Option();\&quot;)\n      statements (acc/get-statements (extract-ast-data declaration))\n      aggregators (comp  a/sequential-same-action-aggregator\n                         a/sequential-same-object-aggregator)\n      result (transduce aggregators conj statements)]\n  (pp/pprint result))&quot;, :offset 426, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(let [declaration (helpers/construct-ast-and-get-node MethodDeclaration \&quot;Option x = new Option();\n                                    Option y = new Option();\n                                    x.setOption(2);\&quot;)\n      statements (acc/get-statements (extract-ast-data declaration))\n      aggregators (comp  a/sequential-same-action-aggregator\n                         a/sequential-same-object-aggregator)\n      result (transduce aggregators conj statements)]\n  (pp/pprint result))&quot;, :offset 210, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(let [declaration (helpers/construct-ast-and-get-node MethodDeclaration \&quot;Option x = new Option();\n                                      Option y = new Option();\n                                     \&quot;)\n      statements (acc/get-statements (extract-ast-data declaration))\n      result (transduce a/sequential-same-action-aggregator conj statements)]\n  (println (first result)))&quot;, :offset 372, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(let [declaration (helpers/construct-ast-and-get-node MethodDeclaration \&quot;Option x = new Option();\n                                      Option y = new Option();\n                                     \&quot;)\n      statements (acc/get-statements (extract-ast-data declaration))\n      result (transduce a/sequential-same-action-aggregator conj statements)]\n  (println (cc/get-object (first result))))&quot;, :offset 388, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(let [declaration (helpers/construct-ast-and-get-node MethodDeclaration \&quot;Option x = new Option();\n                                      Option y = new Option();\n                                     \&quot;)\n      statements (acc/get-statements (extract-ast-data declaration))\n      result (transduce a/sequential-same-action-aggregator conj statements)]\n  (println (cc/get-action (first result))))&quot;, :offset 373, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(require '(summarizer.common :as cc))&quot;, :offset 35, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(require '[summarizer.common :as cc])&quot;, :offset 11, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(let [declaration (helpers/construct-ast-and-get-node MethodDeclaration \&quot;Option x = new Option();\n                                      Option y = new Option();\n                                     \&quot;)\n      statements (acc/get-statements (extract-ast-data declaration))\n      result (transduce a/sequential-same-action-aggregator conj statements)]\n  (println (cc/get-action result)))&quot;, :offset 365, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(require '[summarizer.aggregation.common :as cc])&quot;, :offset 34, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(let [declaration (helpers/construct-ast-and-get-node MethodDeclaration \&quot;Option x = new Option();\n                                      Option y = new Option();\n                                     \&quot;)\n      statements (acc/get-statements (extract-ast-data declaration))\n      result (transduce a/sequential-same-action-aggregator conj statements)]\n  (println (cc/get-object result)))&quot;, :offset 374, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(let [declaration (helpers/construct-ast-and-get-node MethodDeclaration \&quot;Option x = new Option();\n                                      Option y = new Option();\n                                     \&quot;)\n      statements (acc/get-statements (extract-ast-data declaration))\n      result (transduce a/sequential-same-action-aggregator conj statements)]\n  (println (cc/aggregated-statement? result)))&quot;, :offset 384, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(let [declaration (helpers/construct-ast-and-get-node MethodDeclaration \&quot;Option x = new Option();\n                                      Option y = new Option();\n                                     \&quot;)\n      statements (acc/get-statements (extract-ast-data declaration))\n      result (transduce a/sequential-same-action-aggregator conj statements)]\n  (println (:node-type (first result))))&quot;, :offset 370, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(let [declaration (helpers/construct-ast-and-get-node MethodDeclaration \&quot;Option x = new Option();\n                                      Option y = new Option();\n                                     \&quot;)\n      statements (acc/get-statements (extract-ast-data declaration))\n      result (transduce a/sequential-same-action-aggregator conj statements)]\n  (println (cc/aggregated-statement? (first result))))&quot;, :offset 392, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(let [declaration (helpers/construct-ast-and-get-node MethodDeclaration \&quot;Option x = new Option();\n                                      Option y = new Option();\n                                     \&quot;)\n      statements (acc/get-statements (extract-ast-data declaration))\n      result (transduce a/sequential-same-action-aggregator conj statements)]\n  (pp/pprint (first result)))&quot;, :offset 374, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(let [result (transduce (cc/consecutive-reducer #(every? even? [%1 %2]) (fn [x] x))\n                        conj\n                        [2 2 3])]\n  (println result))&quot;, :offset 164, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(defn sample [a b]\n  (println a)\n  (println b)\n  (every? even? a b))&quot;, :offset 66, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(defn sample [a b]\n  (println a)\n  (println b)\n  (every? even? [a b]))&quot;, :offset 64, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(let [result (transduce (cc/consecutive-reducer sample (fn [x] x))\n                        conj\n                        [2 2 3])]\n  (println result))&quot;, :offset 54, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(let [result (transduce (cc/consecutive-reducer #(every? even? [%1 %2]) (fn [x] x))\n                        conj\n                        []\n                        [2 2 3])]\n  (println result))&quot;, :offset 139, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(let [result (transduce (cc/consecutive-reducer sample (fn [x] x))\n                        conj\n                        []\n                        [2 2 3])]\n  (println result))&quot;, :offset 54, :ns &quot;summarizer.aggregator-tests&quot;} {:command &quot;(group-by :role [{:role :x :value [1 2 3]}\n                 {:role :y :value [2  3]}\n                 {:role :x :value [1 2 3]}])&quot;, :offset 129, :ns &quot;nlg.core&quot;} {:command &quot;(clause (subject (noun \&quot;play\&quot;)))&quot;, :offset 28, :ns &quot;nlg.core&quot;} {:command &quot;(-&gt;&gt; (noun \&quot;word\&quot; :pre \&quot;hello\&quot;)\n     (:value))&quot;, :offset 44, :ns &quot;nlg.core&quot;} {:command &quot;(-&gt;&gt; (noun \&quot;word\&quot; :pre \&quot;hello\&quot;)\n     (:value)\n     (into {}))&quot;, :offset 59, :ns &quot;nlg.core&quot;} {:command &quot;(-&gt;&gt; (noun \&quot;word\&quot; :pre \&quot;hello\&quot;)\n     (:value)\n     (apply hash-map))&quot;, :offset 66, :ns &quot;nlg.core&quot;} {:command &quot;(feature \&quot;x\&quot; \&quot;y\&quot; \&quot;z\&quot; \&quot;sup\&quot;)&quot;, :offset 25, :ns &quot;nlg.core&quot;} {:command &quot;(verb \&quot;get\&quot; :post \&quot;the\&quot;)&quot;, :offset 22, :ns &quot;nlg.core&quot;} {:command &quot;(clause\n  (subject (noun \&quot;play\&quot; :pre \&quot;no\&quot;)\n           (noun \&quot;work\&quot; :pre \&quot;no\&quot;))\n  (verb \&quot;make\&quot;)\n  (object \&quot;Jack\&quot;)\n  (complement \&quot;a dull boy\&quot;)\n  (feature :base-infinitive :form))&quot;, :offset 112, :ns &quot;nlg.core&quot;} {:command &quot;(clause\n  (subject (noun \&quot;play\&quot; :pre \&quot;no\&quot;)\n           (noun \&quot;work\&quot; :pre \&quot;no\&quot;))\n  (verb \&quot;make\&quot;)\n  (object \&quot;Jack\&quot;)\n  (compl \&quot;a dull boy\&quot;)\n  (feature :base-infinitive :form))&quot;, :offset 121, :ns &quot;nlg.core&quot;} {:command &quot;(n/complement)&quot;, :offset 14} {:command &quot;(-&gt;&gt; (clause\n       (subject (noun-phrase \&quot;play\&quot; :pre \&quot;no\&quot;)\n                (noun-phrase \&quot;work\&quot; :pre \&quot;no\&quot;))\n       (verb \&quot;make\&quot;)\n       (object \&quot;Jack\&quot;)\n       (compl \&quot;a dull boy\&quot;)\n       (feature :base-infinitive :form))\n     (partition-by :role))&quot;, :offset 245, :ns &quot;nlg.core&quot;} {:command &quot;(-&gt;&gt; (clause\n       (subject (noun-phrase \&quot;play\&quot; :pre \&quot;no\&quot;)\n                (noun-phrase \&quot;work\&quot; :pre \&quot;no\&quot;))\n       (verb \&quot;make\&quot;)\n       (object \&quot;Jack\&quot;)\n       (compl \&quot;a dull boy\&quot;)\n       (feature :base-infinitive :form))\n     (:value)\n     (partition-by :role))&quot;, :offset 76, :ns &quot;nlg.core&quot;} {:command &quot;(clause\n  (subject (noun-phrase \&quot;play\&quot; :pre \&quot;no\&quot;)\n           (noun-phrase \&quot;work\&quot; :pre \&quot;no\&quot;))\n  (verb \&quot;make\&quot;)\n  (object \&quot;Jack\&quot;)\n  (compl \&quot;a dull boy\&quot;)\n  (feature :base-infinitive :form))&quot;, :offset 160, :ns &quot;nlg.core&quot;} {:command &quot;(:value x)&quot;, :offset 9, :ns &quot;nlg.core&quot;} {:command &quot;(partition-by :role :value x)&quot;, :offset 20, :ns &quot;nlg.core&quot;} {:command &quot;(def x (clause\n         (subject (noun-phrase \&quot;play\&quot; :pre \&quot;no\&quot;)\n                  (noun-phrase \&quot;work\&quot; :pre \&quot;no\&quot;))\n         (verb \&quot;make\&quot;)\n         (object \&quot;Jack\&quot;)\n         (compl \&quot;a dull boy\&quot;)\n         (feature :base-infinitive :form)))&quot;, :offset 235, :ns &quot;nlg.core&quot;} {:command &quot;(partition-by :role (:value x))&quot;, :offset 21, :ns &quot;nlg.core&quot;} {:command &quot;(group-by :role (:value x))&quot;, :offset 9, :ns &quot;nlg.core&quot;} {:command &quot;(def groups (group-by :role (:value x)))&quot;, :offset 38, :ns &quot;nlg.core&quot;} {:command &quot;(map (fn [item] (println item)) groups)&quot;, :offset 38, :ns &quot;nlg.core&quot;} {:command &quot;(map (fn [[key value] (println key)) groups)&quot;, :offset 34, :ns &quot;nlg.core&quot;} {:command &quot;(map (fn [[key value]] (println key)) groups)&quot;, :offset 22, :ns &quot;nlg.core&quot;} {:command &quot;(map (fn [[_ value]] (:value value)) groups)&quot;, :offset 34, :ns &quot;nlg.core&quot;} {:command &quot;(values groups)&quot;, :offset 7, :ns &quot;nlg.core&quot;} {:command &quot;(map (fn [[_ value]] value) groups)&quot;, :offset 26, :ns &quot;nlg.core&quot;} {:command &quot;(-&gt;&gt; (map (fn [[_ value]] value) groups)\n     (flatten))&quot;, :offset 54, :ns &quot;nlg.core&quot;} {:command &quot;(-&gt;&gt; (map (fn [[_ value]] value) groups)\n     (flatten)\n     (map (fn [[_ value]] value)))&quot;, :offset 88, :ns &quot;nlg.core&quot;} {:command &quot;(noun \&quot;word\&quot; :pre \&quot;hello\&quot;)&quot;, :offset 24, :ns &quot;nlg.core&quot;} {:command &quot;(noun-phrase \&quot;word\&quot; :pre \&quot;hello\&quot;)&quot;, :offset 12, :ns &quot;nlg.core&quot;} {:command &quot;(feature \&quot;x\&quot; \&quot;y\&quot; \&quot;z \&quot; \&quot;zed\&quot;)&quot;, :offset 26, :ns &quot;nlg.core&quot;} {:command &quot;(merge-with into (:clause x))&quot;, :offset 27, :ns &quot;nlg.core&quot;} {:command &quot;(apply merge-with into (:clause x))&quot;, :offset 34, :ns &quot;nlg.core&quot;} {:command &quot;(subject \n  (noun-phrase \&quot;hello\&quot;))&quot;, :offset 31, :ns &quot;nlg.core&quot;} {:command &quot;(noun-phrase \&quot;hello\&quot;)&quot;, :offset 19, :ns &quot;nlg.core&quot;} {:command &quot;(verb-phrase \&quot;hello\&quot;)&quot;, :offset 5, :ns &quot;nlg.core&quot;} {:command &quot;(verb-phrase \&quot;zara\&quot;)&quot;, :offset 18, :ns &quot;nlg.core&quot;} {:command &quot;(def x (clause\n         (subject (noun-phrase \&quot;play\&quot; :pre \&quot;no\&quot;)\n                  (noun-phrase \&quot;work\&quot; :pre \&quot;no\&quot;))\n         (verb \&quot;make\&quot;)\n         (object \&quot;Jack\&quot;)\n         (compl \&quot;a dull boy\&quot;)\n         (feature :base-infinitive :form)\n         (feature :los :zetas)))&quot;, :offset 86, :ns &quot;nlg.core&quot;} {:command &quot;x&quot;, :offset 1, :ns &quot;nlg.core&quot;} {:command &quot;(subject (noun-phrase \&quot;play\&quot; :pre \&quot;no\&quot;)\n         (noun-phrase \&quot;work\&quot; :pre \&quot;no\&quot;))&quot;, :offset 80, :ns &quot;nlg.core&quot;} {:command &quot;(defn subject [phrases &amp; args]\n  (if (&gt; 0 (count phrases))\n    (-&gt; (apply hash-map args)\n        (select-keys [:features])\n        (assoc :phrases phrases)\n        (-&gt;&gt; (h/create-coordinated-phrase factory)))\n    phrases))&quot;, :offset 222, :ns &quot;nlg.core&quot;} {:command &quot;(subject [(noun-phrase \&quot;play\&quot; :pre \&quot;no\&quot;)\n          (noun-phrase \&quot;work\&quot; :pre \&quot;no\&quot;)])&quot;, :offset 51, :ns &quot;nlg.core&quot;} {:command &quot;(subject (noun-phrase \&quot;play\&quot; :pre \&quot;no\&quot;))&quot;, :offset 39, :ns &quot;nlg.core&quot;} {:command &quot;(nlp/tag-str-from-method-name \&quot;assertEquals\&quot;)&quot;, :offset 43, :ns &quot;summarizer.descriptors.method-calls&quot;} {:command &quot;(nlp/tag-str-from-method-name \&quot;addOption\&quot;)&quot;, :offset 40, :ns &quot;summarizer.descriptors.method-calls&quot;}], :remote []}}</component>
+  <component name="RunManager" selected="Clojure Application.sandbox.core">
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="fixLineNumbers" value="false" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="analysis-repl" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <module name="analysis" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$/analysis" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ast-extractor repl" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <module name="ast-extractor" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$/ast-extractor" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="nlg-repl" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <module name="nlg" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$/nlg" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="nlp-REPL" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <module name="nlp" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$/nlp" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sandbox-repl" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <module name="sandbox" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$/sandbox" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="summarizer-repl" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <module name="summarizer" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$/summarizer" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="core" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="sandbox" />
+      <setting name="path" value="$PROJECT_DIR$/sandbox/src/sandbox/core.clj" />
+      <setting name="namespace" value="" />
+      <setting name="execution" value="INTELLIJ" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$/sandbox/src/sandbox" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sandbox.core (1)" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="sandbox" />
+      <setting name="path" value="$PROJECT_DIR$/sandbox/src/sandbox/core.clj" />
+      <setting name="namespace" value="" />
+      <setting name="execution" value="INTELLIJ" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$/sandbox/src/sandbox" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sandbox.core" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="sandbox" />
+      <setting name="path" value="$PROJECT_DIR$/sandbox/src/sandbox/core.clj" />
+      <setting name="namespace" value="" />
+      <setting name="execution" value="INTELLIJ" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="vmparams" value="-Xmx10G" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$/sandbox" />
+      <method v="2" />
+    </configuration>
+    <configuration name="statement_tests" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="ast-extractor" />
+      <setting name="path" value="$PROJECT_DIR$/ast-extractor/test/ast_extractor/statement_tests.clj" />
+      <setting name="namespace" value="" />
+      <setting name="execution" value="INTELLIJ" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$/ast-extractor/test/ast_extractor" />
+      <method v="2" />
+    </configuration>
+    <configuration name="summarizer.aggregator-tests" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="summarizer" />
+      <setting name="path" value="$PROJECT_DIR$/summarizer/test/summarizer/aggregator_tests.clj" />
+      <setting name="namespace" value="" />
+      <setting name="execution" value="INTELLIJ" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$/summarizer/test/summarizer" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Clojure Application.sandbox.core" />
+      <item itemvalue="Clojure Application.sandbox.core (1)" />
+      <item itemvalue="Clojure Application.core" />
+      <item itemvalue="Clojure Application.statement_tests" />
+      <item itemvalue="Clojure Application.summarizer.aggregator-tests" />
+      <item itemvalue="Clojure REPL.nlg-repl" />
+      <item itemvalue="Clojure REPL.summarizer-repl" />
+      <item itemvalue="Clojure REPL.sandbox-repl" />
+      <item itemvalue="Clojure REPL.nlp-REPL" />
+      <item itemvalue="Clojure REPL.ast-extractor repl" />
+      <item itemvalue="Clojure REPL.analysis-repl" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Clojure Application.sandbox.core" />
+        <item itemvalue="Clojure Application.sandbox.core (1)" />
+        <item itemvalue="Clojure Application.summarizer.aggregator-tests" />
+        <item itemvalue="Clojure Application.core" />
+        <item itemvalue="Clojure Application.statement_tests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d960b5e6-7cba-436a-9cd8-deeaa5ad8c24" name="Default Changelist" comment="" />
+      <created>1581454259542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581454259542</updated>
+      <workItem from="1581454263529" duration="7163000" />
+      <workItem from="1581507060137" duration="14369000" />
+      <workItem from="1581581057879" duration="97000" />
+      <workItem from="1581778738474" duration="17470000" />
+      <workItem from="1581837945641" duration="21396000" />
+      <workItem from="1581931142782" duration="5900000" />
+      <workItem from="1581951453020" duration="106000" />
+      <workItem from="1581951570338" duration="137000" />
+      <workItem from="1581951721948" duration="20171000" />
+      <workItem from="1582016251392" duration="1114000" />
+      <workItem from="1582017380938" duration="105000" />
+      <workItem from="1582017566815" duration="10321000" />
+      <workItem from="1582040683020" duration="16763000" />
+      <workItem from="1582097804181" duration="27781000" />
+      <workItem from="1582187025895" duration="7790000" />
+      <workItem from="1582200879635" duration="22623000" />
+      <workItem from="1582269887297" duration="23014000" />
+      <workItem from="1582359494962" duration="28102000" />
+      <workItem from="1582441059517" duration="22958000" />
+      <workItem from="1582470814747" duration="921000" />
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/line-execution-trace" />
+      <path value="$PROJECT_DIR$/lingo" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="717" y="212" width="800" height="691" key="#Clojure" timestamp="1582230701277">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="717" y="212" width="800" height="691" key="#Clojure/0.27.1920.1053@0.27.1920.1053" timestamp="1582230701277" />
+    <state x="1115" y="424" width="1600" height="1382" key="#Intentions" timestamp="1581839716577">
+      <screen x="0" y="54" width="3840" height="2106" />
+    </state>
+    <state x="1115" y="424" width="1600" height="1382" key="#Intentions/0.54.3840.2106@0.54.3840.2106" timestamp="1581839716577" />
+    <state x="406" y="184" width="956" height="691" key="#Project_Structure" timestamp="1582199704685">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="406" y="184" width="956" height="691" key="#Project_Structure/0.27.1920.1053@0.27.1920.1053" timestamp="1582199704685" />
+    <state x="812" y="396" width="1945" height="1382" key="#Project_Structure/0.54.3840.2106@0.54.3840.2106" timestamp="1581456489436" />
+    <state x="681" y="211" width="920" height="541" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582385984609">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="681" y="211" width="920" height="541" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1582385984609" />
+    <state x="1362" y="604" width="1775" height="1069" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.54.3840.2106@0.54.3840.2106" timestamp="1581459181474" />
+    <state x="1615" y="950" width="600" height="330" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1581454372578">
+      <screen x="0" y="54" width="3840" height="2106" />
+    </state>
+    <state x="1615" y="950" width="600" height="330" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.54.3840.2106@0.54.3840.2106" timestamp="1581454372578" />
+    <state x="1255" y="618" width="1048" height="996" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1581456279986">
+      <screen x="0" y="54" width="3840" height="2106" />
+    </state>
+    <state x="1255" y="618" width="1048" height="996" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.54.3840.2106@0.54.3840.2106" timestamp="1581456279986" />
+    <state x="420" y="93" width="1076" height="930" key="CommitChangelistDialog2" timestamp="1582295935822">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="420" y="93" width="1076" height="930" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1582295935822" />
+    <state x="190" y="20" width="1536" height="886" key="DiffContextDialog" timestamp="1582285707731">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="190" y="20" width="1536" height="886" key="DiffContextDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1582285707731" />
+    <state x="743" y="164" width="424" height="642" key="FileChooserDialogImpl" timestamp="1582051396647">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="743" y="164" width="424" height="642" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1582051396647" />
+    <state x="1486" y="439" width="848" height="1269" key="FileChooserDialogImpl/0.54.3840.2106@0.54.3840.2106" timestamp="1581790090101" />
+    <state width="1459" height="416" key="GridCell.Tab.0.bottom" timestamp="1582472565761">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1459" height="416" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1582472565761" />
+    <state width="3750" height="591" key="GridCell.Tab.0.bottom/0.54.3840.2106@0.54.3840.2106" timestamp="1581951437706" />
+    <state width="1459" height="416" key="GridCell.Tab.0.center" timestamp="1582472565761">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1459" height="416" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1582472565761" />
+    <state width="3750" height="591" key="GridCell.Tab.0.center/0.54.3840.2106@0.54.3840.2106" timestamp="1581951437705" />
+    <state width="1459" height="416" key="GridCell.Tab.0.left" timestamp="1582472565760">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1459" height="416" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1582472565760" />
+    <state width="3750" height="591" key="GridCell.Tab.0.left/0.54.3840.2106@0.54.3840.2106" timestamp="1581951437705" />
+    <state width="1459" height="416" key="GridCell.Tab.0.right" timestamp="1582472565761">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1459" height="416" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1582472565761" />
+    <state width="3750" height="591" key="GridCell.Tab.0.right/0.54.3840.2106@0.54.3840.2106" timestamp="1581951437705" />
+    <state width="1073" height="340" key="GridCell.Tab.1.bottom" timestamp="1582470752359">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1073" height="340" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1582470752359" />
+    <state width="2413" height="684" key="GridCell.Tab.1.bottom/0.54.3840.2106@0.54.3840.2106" timestamp="1581545099178" />
+    <state width="1073" height="340" key="GridCell.Tab.1.center" timestamp="1582470752359">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1073" height="340" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1582470752359" />
+    <state width="2413" height="684" key="GridCell.Tab.1.center/0.54.3840.2106@0.54.3840.2106" timestamp="1581545099178" />
+    <state width="1073" height="340" key="GridCell.Tab.1.left" timestamp="1582470752359">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1073" height="340" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1582470752359" />
+    <state width="2413" height="684" key="GridCell.Tab.1.left/0.54.3840.2106@0.54.3840.2106" timestamp="1581545099178" />
+    <state width="1073" height="340" key="GridCell.Tab.1.right" timestamp="1582470752359">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1073" height="340" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1582470752359" />
+    <state width="2413" height="684" key="GridCell.Tab.1.right/0.54.3840.2106@0.54.3840.2106" timestamp="1581545099178" />
+    <state x="546" y="297" width="824" height="522" key="IDE.errors.dialog" timestamp="1582054913070">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="546" y="297" width="824" height="522" key="IDE.errors.dialog/0.27.1920.1053@0.27.1920.1053" timestamp="1582054913070" />
+    <state x="187" y="190" width="1644" height="619" key="NewModule_or_Project.wizard" timestamp="1582051398568">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="187" y="190" width="1644" height="619" key="NewModule_or_Project.wizard/0.27.1920.1053@0.27.1920.1053" timestamp="1582051398568" />
+    <state x="374" y="463" width="3073" height="1222" key="NewModule_or_Project.wizard/0.54.3840.2106@0.54.3840.2106" timestamp="1581790094346" />
+    <state x="446" y="20" width="1031" height="744" key="SettingsEditor" timestamp="1582449386739">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="446" y="20" width="1031" height="744" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1582449386739" />
+    <state x="891" y="115" width="2048" height="1718" key="SettingsEditor/0.54.3840.2106@0.54.3840.2106" timestamp="1581951557783" />
+    <state x="806" y="431" width="303" height="243" key="VCS.ChangelistChooser" timestamp="1582455916275">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="806" y="431" width="303" height="243" key="VCS.ChangelistChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1582455916275" />
+    <state x="634" y="339" key="com.intellij.ide.util.TipDialog" timestamp="1582441877374">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="634" y="339" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1582441877374" />
+    <state x="1267" y="732" key="com.intellij.ide.util.TipDialog/0.54.3840.2106@0.54.3840.2106" timestamp="1581951570350" />
+    <state x="683" y="136" width="726" height="778" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582377377701">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="683" y="136" width="726" height="778" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1582377377701" />
+    <state x="1366" y="327" width="1098" height="1547" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.54.3840.2106@0.54.3840.2106" timestamp="1581841586819" />
+    <state x="1216" y="471" width="447" height="174" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582394813320">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1216" y="471" width="447" height="174" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1920.1053@0.27.1920.1053" timestamp="1582394813320" />
+    <state x="621" y="140" width="849" height="821" key="find.popup" timestamp="1582443943588">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="621" y="140" width="849" height="821" key="find.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1582443943588" />
+    <state x="1242" y="279" width="1518" height="1641" key="find.popup/0.54.3840.2106@0.54.3840.2106" timestamp="1581874773818" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1582197765598">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1582197765598" />
+    <state x="121" y="86" width="1348" height="562" key="new project wizard" timestamp="1582468181598">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="121" y="86" width="1348" height="562" key="new project wizard/0.27.1920.1053@0.27.1920.1053" timestamp="1582468181598" />
+    <state x="615" y="231" width="2590" height="1687" key="new project wizard/0.54.3840.2106@0.54.3840.2106" timestamp="1581543787558" />
+    <state x="624" y="248" key="run.anything.popup" timestamp="1582367568640">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="624" y="248" key="run.anything.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1582367568640" />
+    <state x="482" y="27" width="955" height="1051" key="search.everywhere.popup" timestamp="1582394155747">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="482" y="27" width="955" height="1051" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1582394155747" />
+    <state x="963" y="52" width="1910" height="2556" key="search.everywhere.popup/0.54.3840.2106@0.54.3840.2106" timestamp="1581951578623" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/summarizer/src/summarizer/nlg/realizer.clj</url>
+          <line>10</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/summarizer/src/summarizer/core.clj</url>
+          <line>21</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/summarizer/src/summarizer/summarizer.clj</url>
+          <line>31</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

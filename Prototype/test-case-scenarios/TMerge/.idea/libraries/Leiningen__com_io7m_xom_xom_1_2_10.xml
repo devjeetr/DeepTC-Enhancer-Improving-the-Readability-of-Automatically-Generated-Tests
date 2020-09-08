@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: com.io7m.xom/xom:1.2.10">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/io7m/xom/xom/1.2.10/xom-1.2.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

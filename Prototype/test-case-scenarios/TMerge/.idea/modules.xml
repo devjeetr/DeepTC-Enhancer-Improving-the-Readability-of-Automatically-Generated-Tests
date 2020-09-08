@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/analysis/analysis.iml" filepath="$PROJECT_DIR$/analysis/analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ast-extractor/ast-extractor.iml" filepath="$PROJECT_DIR$/ast-extractor/ast-extractor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/execution-trace-collector/execution-trace-collector.iml" filepath="$PROJECT_DIR$/execution-trace-collector/execution-trace-collector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaparser-wrapper/javaparser-wrapper.iml" filepath="$PROJECT_DIR$/javaparser-wrapper/javaparser-wrapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/junit-runner/junit-runner.iml" filepath="$PROJECT_DIR$/junit-runner/junit-runner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lingo/lingo.iml" filepath="$PROJECT_DIR$/lingo/lingo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nlg/nlg.iml" filepath="$PROJECT_DIR$/nlg/nlg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nlp/nlp.iml" filepath="$PROJECT_DIR$/nlp/nlp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sandbox/sandbox.iml" filepath="$PROJECT_DIR$/sandbox/sandbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/summarizer/summarizer.iml" filepath="$PROJECT_DIR$/summarizer/summarizer.iml" />
+    </modules>
+  </component>
+</project>

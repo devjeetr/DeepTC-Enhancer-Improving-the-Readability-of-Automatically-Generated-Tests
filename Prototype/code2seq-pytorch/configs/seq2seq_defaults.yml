@@ -1,0 +1,24 @@
+general_params
+  batch_size: 256
+  max_contexts: 200
+  subtoken_length: 5
+  ast_path_length: 9
+  target_length: 5
+  epochs: 50
+  grad_clip: 5.0
+
+
+model_config
+  subtoken_embedding_size: 128
+  subtoken_embedding_vocab_size: 128
+  ast_hidden_size: 128
+  ast_embedding_vocab_size: 128
+  ast_embedding_size: 128
+  ast_bidirectional: True
+  encoder_hidden_dim: 320
+  encoder_dropout: 0.25
+  decoder_hidden_dim: 320
+  decoder_output_dim: 128
+  decoder_embedding_vocab_size: 30
+  decoder_dropout: 0.25
+

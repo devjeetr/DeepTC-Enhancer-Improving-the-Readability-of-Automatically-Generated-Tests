@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ASMIdeaPluginConfiguration">
+    <asm skipDebug="false" skipFrames="false" skipCode="false" expandFrames="false" />
+    <groovy codeStyle="LEGACY" />
+  </component>
+  <component name="ASMPluginConfiguration">
+    <asm skipDebug="false" skipFrames="false" skipCode="false" expandFrames="false" />
+    <groovy codeStyle="LEGACY" />
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="LeiningenProjectsManager">
+    <option name="projectFiles">
+      <list>
+        <option value="file://$PROJECT_DIR$/javaparser-wrapper/project.clj" />
+        <option value="file://$PROJECT_DIR$/ast-extractor/project.clj" />
+        <option value="file://$PROJECT_DIR$/analysis/project.clj" />
+        <option value="file://$PROJECT_DIR$/execution-trace-collector/project.clj" />
+        <option value="file://$PROJECT_DIR$/summarizer/project.clj" />
+        <option value="file://$PROJECT_DIR$/sandbox/project.clj" />
+        <option value="file://$PROJECT_DIR$/nlp/project.clj" />
+        <option value="file://$PROJECT_DIR$/nlg/project.clj" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

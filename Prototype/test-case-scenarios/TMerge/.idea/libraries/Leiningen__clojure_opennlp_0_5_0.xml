@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: clojure-opennlp:0.5.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/clojure-opennlp/clojure-opennlp/0.5.0/clojure-opennlp-0.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

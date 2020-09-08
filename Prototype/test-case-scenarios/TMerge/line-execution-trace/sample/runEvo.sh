@@ -1,0 +1,9 @@
+CLASS_PATH="/home/devjeetroy/.m2/repository/org/junit/jupiter/junit-jupiter/5.5.2/junit-jupiter-5.5.2.jar:/home/devjeetroy/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.5.2/junit-jupiter-api-5.5.2.jar:/home/devjeetroy/.m2/repository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar:/home/devjeetroy/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/home/devjeetroy/.m2/repository/org/junit/platform/junit-platform-commons/1.5.2/junit-platform-commons-1.5.2.jar:/home/devjeetroy/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.5.2/junit-jupiter-params-5.5.2.jar:/home/devjeetroy/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.5.2/junit-jupiter-engine-5.5.2.jar:/home/devjeetroy/.m2/repository/org/junit/platform/junit-platform-engine/1.5.2/junit-platform-engine-1.5.2.jar:/home/devjeetroy/.m2/repository/org/junit-pioneer/junit-pioneer/0.3.0/junit-pioneer-0.3.0.jar:/home/devjeetroy/.m2/repository/org/mockito/mockito-core/3.0.0/mockito-core-3.0.0.jar:/home/devjeetroy/.m2/repository/net/bytebuddy/byte-buddy/1.9.10/byte-buddy-1.9.10.jar:/home/devjeetroy/.m2/repository/net/bytebuddy/byte-buddy-agent/1.9.10/byte-buddy-agent-1.9.10.jar:/home/devjeetroy/.m2/repository/org/objenesis/objenesis/2.6/objenesis-2.6.jar:/home/devjeetroy/.m2/repository/com/google/jimfs/jimfs/1.1/jimfs-1.1.jar:/home/devjeetroy/.m2/repository/com/google/guava/guava/18.0/guava-18.0.jar:/home/devjeetroy/.m2/repository/org/apache/commons/commons-lang3/3.9/commons-lang3-3.9.jar:/home/devjeetroy/Research/Testing-Project/repositories/repos/commons-io/target/classes/"
+
+TEST_CLASS="org.apache.commons.io.input.AutoCloseInputStream"
+
+EVOSUITE="../../../evosuite-jars/evosuite-1.0.6.jar"
+BASE_DIR="/home/devjeetroy/Research/Testing-Project/line-execution-trace/sample/tests/"
+
+(cd ../../repositories/repos/commons-io && java -jar $EVOSUITE -projectCP $CLASS_PATH -class $TEST_CLASS -base_dir $BASE_DIR)
+
